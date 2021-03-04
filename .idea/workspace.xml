@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d39c7d5d-7307-4276-9e21-d51eab631832" name="Default Changelist" comment="" />
+    <list default="true" id="d39c7d5d-7307-4276-9e21-d51eab631832" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis_options.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/analysis_options.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,9 +76,9 @@
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="781" y="368" key="SettingsEditor/0.25.2560.1415/2560.237.2560.1415@0.25.2560.1415" timestamp="1614819795745" />
-    <state x="945" y="349" width="670" height="676" key="search.everywhere.popup" timestamp="1614819849501">
+    <state x="945" y="349" width="670" height="676" key="search.everywhere.popup" timestamp="1614821026817">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state x="945" y="349" width="670" height="676" key="search.everywhere.popup/0.25.2560.1415/2560.237.2560.1415@0.25.2560.1415" timestamp="1614819849501" />
+    <state x="945" y="349" width="670" height="676" key="search.everywhere.popup/0.25.2560.1415/2560.237.2560.1415@0.25.2560.1415" timestamp="1614821026817" />
   </component>
 </project>
