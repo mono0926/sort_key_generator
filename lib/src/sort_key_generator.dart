@@ -1,6 +1,6 @@
-double generateSortKeyDouble({
-  double previous,
-  double next,
+double? generateSortKeyDouble({
+  double? previous,
+  double? next,
 }) {
   if (previous == null) {
     if (next == null) {

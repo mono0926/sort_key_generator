@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d39c7d5d-7307-4276-9e21-d51eab631832" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/sort_key_generator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/sort_key_generator.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oaupRrdkBadDlLJdQtX2vAYdmq" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tests in sort_key_generator_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/test/sort_key_generator_test.dart" />
+      <option name="testName" value="sort_key_generator_test.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Test.tests in sort_key_generator_test.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d39c7d5d-7307-4276-9e21-d51eab631832" name="Default Changelist" comment="" />
+      <created>1613537204381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613537204381</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="368" key="SettingsEditor" timestamp="1614819795745">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="781" y="368" key="SettingsEditor/0.25.2560.1415/2560.237.2560.1415@0.25.2560.1415" timestamp="1614819795745" />
+    <state x="945" y="349" width="670" height="676" key="search.everywhere.popup" timestamp="1614819849501">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="945" y="349" width="670" height="676" key="search.everywhere.popup/0.25.2560.1415/2560.237.2560.1415@0.25.2560.1415" timestamp="1614819849501" />
+  </component>
+</project>

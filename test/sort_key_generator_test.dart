@@ -18,7 +18,7 @@ void main() {
     test('Generate 1074 times', () {
       var current = 1.0;
       List.generate(1074, (i) {
-        final result = generateSortKeyDouble(previous: 0, next: current);
+        final result = generateSortKeyDouble(previous: 0, next: current)!;
         expect(result, isNotNull);
         expect(result > 0, isTrue);
         expect(result < current, isTrue);
@@ -27,7 +27,7 @@ void main() {
       print(current);
     });
     test('Generate 1075 times → null', () {
-      var current = 1.0;
+      double? current = 1;
       List.generate(1075, (i) {
         final result = generateSortKeyDouble(previous: 0, next: current);
         current = result;
