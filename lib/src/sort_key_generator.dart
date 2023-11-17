@@ -18,12 +18,10 @@ double? generateSortKeyDouble({
   final ret = (previous + next) / 2;
   if (ret <= previous) {
     print('ret($ret) is smaller than or equal to previous($previous)');
-    // ignore: avoid_returning_null
     return null;
   }
   if (ret >= next) {
     print('ret($ret) is bigger than or equal to next($next)');
-    // ignore: avoid_returning_null
     return null;
   }
   return ret;
