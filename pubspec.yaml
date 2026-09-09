@@ -1,6 +1,6 @@
 name: sort_key_generator
 description: Generate value between passed two values. This is useful for sorting.
-version: 0.2.1
+version: 0.2.2
 homepage: https://github.com/mono0926/sort_key_generator
 
 environment:
