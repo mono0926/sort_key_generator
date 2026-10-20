@@ -1,3 +1,8 @@
+## 0.2.3 - 2026-10-20
+
+### Bug Fixes
+- Refactor `generateSortKeyDouble` using Dart 3 tuple switch expression, remove console `print` calls, and fix assertion message typo
+
 ## 0.2.2
 
 - Add AI Agent Skill (`sort_key_generator-reordering`)
