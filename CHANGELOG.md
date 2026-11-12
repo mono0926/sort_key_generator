@@ -1,3 +1,11 @@
+## 0.3.0 - 2026-11-12
+
+### Breaking Changes
+- Require Dart SDK `^3.14.0` (#6)
+
+### Chores
+- Bump `pedantic_mono` to `^1.39.0` and apply Dart 3.14 formatting (#6)
+
 ## 0.2.3 - 2026-10-20
 
 ### Bug Fixes
