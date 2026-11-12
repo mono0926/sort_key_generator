@@ -4,8 +4,8 @@ version: 0.2.3
 homepage: https://github.com/mono0926/sort_key_generator
 
 environment:
-  sdk: ^3.0.0
+  sdk: ^3.14.0
 
 dev_dependencies:
-  pedantic_mono:
+  pedantic_mono: ^1.39.0
   test:
